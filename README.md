@@ -1,2 +1,2 @@
 # ngowoua
-A Game Engine for Rust and WebAssembly
+Ngowoua is a Game Engine for Rust and WebAssembly
